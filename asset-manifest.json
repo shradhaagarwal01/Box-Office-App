@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Box-Office-App/static/css/main.93052401.chunk.css",
-    "main.js": "/Box-Office-App/static/js/main.8ba41e04.chunk.js",
-    "main.js.map": "/Box-Office-App/static/js/main.8ba41e04.chunk.js.map",
+    "main.css": "/Box-Office-App/static/css/main.677140fb.chunk.css",
+    "main.js": "/Box-Office-App/static/js/main.94e8c2c1.chunk.js",
+    "main.js.map": "/Box-Office-App/static/js/main.94e8c2c1.chunk.js.map",
     "runtime-main.js": "/Box-Office-App/static/js/runtime-main.0a611d83.js",
     "runtime-main.js.map": "/Box-Office-App/static/js/runtime-main.0a611d83.js.map",
     "static/js/2.5c6a3f27.chunk.js": "/Box-Office-App/static/js/2.5c6a3f27.chunk.js",
     "static/js/2.5c6a3f27.chunk.js.map": "/Box-Office-App/static/js/2.5c6a3f27.chunk.js.map",
     "index.html": "/Box-Office-App/index.html",
-    "precache-manifest.f76dbc7997aabae5d442449672b16cfc.js": "/Box-Office-App/precache-manifest.f76dbc7997aabae5d442449672b16cfc.js",
+    "precache-manifest.e0c71c8f1d94c264df57af5192a9b877.js": "/Box-Office-App/precache-manifest.e0c71c8f1d94c264df57af5192a9b877.js",
     "service-worker.js": "/Box-Office-App/service-worker.js",
-    "static/css/main.93052401.chunk.css.map": "/Box-Office-App/static/css/main.93052401.chunk.css.map",
+    "static/css/main.677140fb.chunk.css.map": "/Box-Office-App/static/css/main.677140fb.chunk.css.map",
     "static/js/2.5c6a3f27.chunk.js.LICENSE.txt": "/Box-Office-App/static/js/2.5c6a3f27.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0a611d83.js",
     "static/js/2.5c6a3f27.chunk.js",
-    "static/css/main.93052401.chunk.css",
-    "static/js/main.8ba41e04.chunk.js"
+    "static/css/main.677140fb.chunk.css",
+    "static/js/main.94e8c2c1.chunk.js"
   ]
 }
