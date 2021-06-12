@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Box-Office-App/static/css/main.677140fb.chunk.css",
-    "main.js": "/Box-Office-App/static/js/main.94e8c2c1.chunk.js",
-    "main.js.map": "/Box-Office-App/static/js/main.94e8c2c1.chunk.js.map",
+    "main.css": "/Box-Office-App/static/css/main.93052401.chunk.css",
+    "main.js": "/Box-Office-App/static/js/main.48652bbf.chunk.js",
+    "main.js.map": "/Box-Office-App/static/js/main.48652bbf.chunk.js.map",
     "runtime-main.js": "/Box-Office-App/static/js/runtime-main.0a611d83.js",
     "runtime-main.js.map": "/Box-Office-App/static/js/runtime-main.0a611d83.js.map",
-    "static/js/2.5c6a3f27.chunk.js": "/Box-Office-App/static/js/2.5c6a3f27.chunk.js",
-    "static/js/2.5c6a3f27.chunk.js.map": "/Box-Office-App/static/js/2.5c6a3f27.chunk.js.map",
+    "static/js/2.b4521b9d.chunk.js": "/Box-Office-App/static/js/2.b4521b9d.chunk.js",
+    "static/js/2.b4521b9d.chunk.js.map": "/Box-Office-App/static/js/2.b4521b9d.chunk.js.map",
     "index.html": "/Box-Office-App/index.html",
-    "precache-manifest.e0c71c8f1d94c264df57af5192a9b877.js": "/Box-Office-App/precache-manifest.e0c71c8f1d94c264df57af5192a9b877.js",
+    "precache-manifest.36498a3d3c3d34e52ded3f7c4aa88ddb.js": "/Box-Office-App/precache-manifest.36498a3d3c3d34e52ded3f7c4aa88ddb.js",
     "service-worker.js": "/Box-Office-App/service-worker.js",
-    "static/css/main.677140fb.chunk.css.map": "/Box-Office-App/static/css/main.677140fb.chunk.css.map",
-    "static/js/2.5c6a3f27.chunk.js.LICENSE.txt": "/Box-Office-App/static/js/2.5c6a3f27.chunk.js.LICENSE.txt"
+    "static/css/main.93052401.chunk.css.map": "/Box-Office-App/static/css/main.93052401.chunk.css.map",
+    "static/js/2.b4521b9d.chunk.js.LICENSE.txt": "/Box-Office-App/static/js/2.b4521b9d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0a611d83.js",
-    "static/js/2.5c6a3f27.chunk.js",
-    "static/css/main.677140fb.chunk.css",
-    "static/js/main.94e8c2c1.chunk.js"
+    "static/js/2.b4521b9d.chunk.js",
+    "static/css/main.93052401.chunk.css",
+    "static/js/main.48652bbf.chunk.js"
   ]
 }
